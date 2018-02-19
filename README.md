@@ -22,7 +22,7 @@ Pantalla de registro que permite al usuario ingresar sus gastos con una debida d
 </p>
 
 ## Tabla de Gastos Registrados
-Tabla simple de gastos donde se muestran anotados la información provista por el usuario.
+Tabla simple de gastos donde se muestra anotada la información provista por el usuario.
 
 <p align="center"> 
 <img src="https://github.com/jorgerodriguezm/calculadora-ahorros/blob/master/README_images/Tabla%20de%20Gastos.png">
