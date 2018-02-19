@@ -20,3 +20,8 @@ Calculadora de ahorros, programada en Java con un enfoque orientado a objetos, p
 <p align="center"> 
 <img src="https://github.com/jorgerodriguezm/calculadora-ahorros/blob/master/README_images/Grafico%20Gastos.png">
 </p>
+
+## Gráfico de Proyección de Ahorros
+<p align="center"> 
+<img src="https://github.com/jorgerodriguezm/calculadora-ahorros/blob/master/README_images/Grafico%20Proyeccion%20de%20Ahorros.png">
+</p>
