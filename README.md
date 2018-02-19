@@ -29,13 +29,15 @@ Tabla simple de gastos donde se muestran anotados la información provista por e
 </p>
 
 ## Gráfico de Gastos Distribuidos
-
+Gráfico amigable que permite al usuario saber las diferentes categorías en las que su dinero es invertido.
 
 <p align="center"> 
 <img src="https://github.com/jorgerodriguezm/calculadora-ahorros/blob/master/README_images/Grafico%20Gastos.png">
 </p>
 
 ## Gráfico de Proyección de Ahorros
+Visualización de la proyección mensual de ahorros a la cual el usuario puede aspirar, siempre que se permita mantener lo anotado originalmente. En caso de haber cambios, el gráfico se actualizará debidamente.
+
 <p align="center"> 
 <img src="https://github.com/jorgerodriguezm/calculadora-ahorros/blob/master/README_images/Grafico%20Proyeccion%20de%20Ahorros.png">
 </p>
